@@ -1,4 +1,9 @@
-""" A program that stores and updates a counter using a Python pickle file"""
+""" A program that stores and updates a counter using a Python pickle file.
+
+    Author : Lakhvinder Jordan <ljordan51@gmail.com>
+    Course : Olin Software Design Spring 2017
+    Date   : 2017-03-15
+"""
 
 from os.path import exists
 import sys
